@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.29)  19 MAR 2026 06:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.29)  27 MAR 2026 07:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -564,16 +564,16 @@ L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 24032 strings out of 473330
- 581772 string characters out of 5719768
- 972125 words of memory out of 5000000
- 46910 multiletter control sequences out of 15000+600000
+ 23951 strings out of 473330
+ 580293 string characters out of 5719768
+ 970005 words of memory out of 5000000
+ 46829 multiletter control sequences out of 15000+600000
  558237 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,10n,141p,1625b,2391s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 131i,10n,141p,1625b,2323s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on im_arvore.pdf (1 page, 24643 bytes).
+Output written on im_arvore.pdf (1 page, 24556 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
